@@ -1,0 +1,436 @@
+2026-08-23 02:43:46,709 | INFO | MySQL connection successful
+2026-08-23 02:58:16,288 | INFO | MySQL connection successful
+2026-08-23 02:58:17,329 | INFO | Extracted 10 rows from categories
+2026-08-23 02:58:17,379 | INFO | MySQL connection successful
+2026-08-23 02:58:17,395 | INFO | Extracted 50 rows from customers
+2026-08-23 02:58:17,425 | INFO | MySQL connection successful
+2026-08-23 02:58:17,445 | INFO | Extracted 50 rows from products
+2026-08-23 02:58:17,456 | INFO | MySQL connection successful
+2026-08-23 02:58:17,624 | INFO | Extracted 5000 rows from sales_transactions
+2026-08-23 02:58:17,646 | INFO | MySQL connection successful
+2026-08-23 02:58:17,857 | INFO | Extracted 15047 rows from sales_items
+2026-08-23 02:58:17,872 | INFO | MySQL connection successful
+2026-08-23 02:58:17,883 | INFO | Extracted 100 rows from vouchers
+2026-08-23 02:58:17,908 | INFO | MySQL connection successful
+2026-08-23 02:58:17,930 | INFO | Extracted 300 rows from voucher_redemptions
+2026-08-23 02:58:17,951 | INFO | MySQL connection successful
+2026-08-23 02:58:17,980 | INFO | Extracted 500 rows from returns
+2026-08-23 03:02:44,530 | INFO | ============================================================
+2026-08-23 03:02:44,530 | INFO | ETL PROCESS STARTED
+2026-08-23 03:02:44,531 | INFO | ============================================================
+2026-08-23 03:02:44,562 | INFO | MySQL connection successful
+2026-08-23 03:02:45,000 | INFO | Extracted 10 rows from categories
+2026-08-23 03:02:45,009 | INFO | MySQL connection successful
+2026-08-23 03:02:45,014 | INFO | Extracted 50 rows from customers
+2026-08-23 03:02:45,024 | INFO | MySQL connection successful
+2026-08-23 03:02:45,026 | INFO | Extracted 50 rows from products
+2026-08-23 03:02:45,041 | INFO | MySQL connection successful
+2026-08-23 03:02:45,129 | INFO | Extracted 5000 rows from sales_transactions
+2026-08-23 03:02:45,138 | INFO | MySQL connection successful
+2026-08-23 03:02:45,251 | INFO | Extracted 15047 rows from sales_items
+2026-08-23 03:02:45,272 | INFO | MySQL connection successful
+2026-08-23 03:02:45,278 | INFO | Extracted 100 rows from vouchers
+2026-08-23 03:02:45,288 | INFO | MySQL connection successful
+2026-08-23 03:02:45,292 | INFO | Extracted 300 rows from voucher_redemptions
+2026-08-23 03:02:45,302 | INFO | MySQL connection successful
+2026-08-23 03:02:45,310 | INFO | Extracted 500 rows from returns
+2026-08-23 03:02:45,310 | INFO | Processing table: categories
+2026-08-23 03:02:45,311 | INFO | Column validation passed: categories
+2026-08-23 03:02:45,311 | INFO | Row validation passed: categories (10 rows)
+2026-08-23 03:02:45,322 | INFO | Duplicate validation passed: categories
+2026-08-23 03:02:45,322 | INFO | NULL primary-key validation passed: categories
+2026-08-23 03:02:45,338 | INFO | Transformation completed: categories
+2026-08-23 03:02:45,338 | INFO | Processing table: customers
+2026-08-23 03:02:45,338 | INFO | Column validation passed: customers
+2026-08-23 03:02:45,338 | INFO | Row validation passed: customers (50 rows)
+2026-08-23 03:02:45,338 | INFO | Duplicate validation passed: customers
+2026-08-23 03:02:45,338 | INFO | NULL primary-key validation passed: customers
+2026-08-23 03:02:45,338 | INFO | Transformation completed: customers
+2026-08-23 03:02:45,338 | INFO | Processing table: products
+2026-08-23 03:02:45,338 | INFO | Column validation passed: products
+2026-08-23 03:02:45,338 | INFO | Row validation passed: products (50 rows)
+2026-08-23 03:02:45,349 | INFO | Duplicate validation passed: products
+2026-08-23 03:02:45,350 | INFO | NULL primary-key validation passed: products
+2026-08-23 03:02:45,354 | INFO | Transformation completed: products
+2026-08-23 03:02:45,354 | INFO | Processing table: sales_transactions
+2026-08-23 03:02:45,354 | INFO | Column validation passed: sales_transactions
+2026-08-23 03:02:45,354 | INFO | Row validation passed: sales_transactions (5000 rows)
+2026-08-23 03:02:45,354 | INFO | Duplicate validation passed: sales_transactions
+2026-08-23 03:02:45,354 | INFO | NULL primary-key validation passed: sales_transactions
+2026-08-23 03:02:45,354 | INFO | Transformation completed: sales_transactions
+2026-08-23 03:02:45,354 | INFO | Processing table: sales_items
+2026-08-23 03:02:45,354 | INFO | Column validation passed: sales_items
+2026-08-23 03:02:45,354 | INFO | Row validation passed: sales_items (15047 rows)
+2026-08-23 03:02:45,354 | INFO | Duplicate validation passed: sales_items
+2026-08-23 03:02:45,366 | INFO | NULL primary-key validation passed: sales_items
+2026-08-23 03:02:45,368 | INFO | Transformation completed: sales_items
+2026-08-23 03:02:45,368 | INFO | Processing table: vouchers
+2026-08-23 03:02:45,368 | INFO | Column validation passed: vouchers
+2026-08-23 03:02:45,369 | INFO | Row validation passed: vouchers (100 rows)
+2026-08-23 03:02:45,370 | INFO | Duplicate validation passed: vouchers
+2026-08-23 03:02:45,370 | INFO | NULL primary-key validation passed: vouchers
+2026-08-23 03:02:45,370 | INFO | Transformation completed: vouchers
+2026-08-23 03:02:45,370 | INFO | Processing table: voucher_redemptions
+2026-08-23 03:02:45,370 | INFO | Column validation passed: voucher_redemptions
+2026-08-23 03:02:45,370 | INFO | Row validation passed: voucher_redemptions (300 rows)
+2026-08-23 03:02:45,370 | INFO | Duplicate validation passed: voucher_redemptions
+2026-08-23 03:02:45,377 | INFO | NULL primary-key validation passed: voucher_redemptions
+2026-08-23 03:02:45,378 | INFO | Transformation completed: voucher_redemptions
+2026-08-23 03:02:45,378 | INFO | Processing table: returns
+2026-08-23 03:02:45,378 | INFO | Column validation passed: returns
+2026-08-23 03:02:45,378 | INFO | Row validation passed: returns (500 rows)
+2026-08-23 03:02:45,379 | INFO | Duplicate validation passed: returns
+2026-08-23 03:02:45,379 | INFO | NULL primary-key validation passed: returns
+2026-08-23 03:02:45,381 | INFO | Transformation completed: returns
+2026-08-23 03:02:45,382 | INFO | ============================================================
+2026-08-23 03:02:45,382 | INFO | VALIDATION AND TRANSFORMATION COMPLETED
+2026-08-23 03:02:45,382 | INFO | ============================================================
+2026-08-23 03:56:42,198 | INFO | BigQuery dataset ready: retailmart-analytics-506321.retailmart_raw
+2026-08-23 04:32:45,113 | INFO | ============================================================
+2026-08-23 04:32:45,113 | INFO | BIGQUERY LOAD STARTED
+2026-08-23 04:32:45,114 | INFO | ============================================================
+2026-08-23 04:32:45,235 | INFO | ============================================================
+2026-08-23 04:32:45,235 | INFO | ETL PROCESS STARTED
+2026-08-23 04:32:45,235 | INFO | ============================================================
+2026-08-23 04:32:45,499 | INFO | MySQL connection successful
+2026-08-23 04:32:46,164 | INFO | Extracted 10 rows from categories
+2026-08-23 04:32:46,189 | INFO | MySQL connection successful
+2026-08-23 04:32:46,197 | INFO | Extracted 50 rows from customers
+2026-08-23 04:32:46,216 | INFO | MySQL connection successful
+2026-08-23 04:32:46,226 | INFO | Extracted 50 rows from products
+2026-08-23 04:32:46,246 | INFO | MySQL connection successful
+2026-08-23 04:32:46,479 | INFO | Extracted 5000 rows from sales_transactions
+2026-08-23 04:32:46,484 | INFO | MySQL connection successful
+2026-08-23 04:32:46,665 | INFO | Extracted 15047 rows from sales_items
+2026-08-23 04:32:46,681 | INFO | MySQL connection successful
+2026-08-23 04:32:46,698 | INFO | Extracted 100 rows from vouchers
+2026-08-23 04:32:46,715 | INFO | MySQL connection successful
+2026-08-23 04:32:46,728 | INFO | Extracted 300 rows from voucher_redemptions
+2026-08-23 04:32:46,743 | INFO | MySQL connection successful
+2026-08-23 04:32:46,764 | INFO | Extracted 500 rows from returns
+2026-08-23 04:32:46,770 | INFO | Processing table: categories
+2026-08-23 04:32:46,770 | INFO | Column validation passed: categories
+2026-08-23 04:32:46,770 | INFO | Row validation passed: categories (10 rows)
+2026-08-23 04:32:46,783 | INFO | Duplicate validation passed: categories
+2026-08-23 04:32:46,787 | INFO | NULL primary-key validation passed: categories
+2026-08-23 04:32:46,805 | INFO | Transformation completed: categories
+2026-08-23 04:32:46,805 | INFO | Processing table: customers
+2026-08-23 04:32:46,805 | INFO | Column validation passed: customers
+2026-08-23 04:32:46,805 | INFO | Row validation passed: customers (50 rows)
+2026-08-23 04:32:46,805 | INFO | Duplicate validation passed: customers
+2026-08-23 04:32:46,805 | INFO | NULL primary-key validation passed: customers
+2026-08-23 04:32:46,817 | INFO | Transformation completed: customers
+2026-08-23 04:32:46,817 | INFO | Processing table: products
+2026-08-23 04:32:46,821 | INFO | Column validation passed: products
+2026-08-23 04:32:46,821 | INFO | Row validation passed: products (50 rows)
+2026-08-23 04:32:46,821 | INFO | Duplicate validation passed: products
+2026-08-23 04:32:46,821 | INFO | NULL primary-key validation passed: products
+2026-08-23 04:32:46,828 | INFO | Transformation completed: products
+2026-08-23 04:32:46,828 | INFO | Processing table: sales_transactions
+2026-08-23 04:32:46,828 | INFO | Column validation passed: sales_transactions
+2026-08-23 04:32:46,828 | INFO | Row validation passed: sales_transactions (5000 rows)
+2026-08-23 04:32:46,828 | INFO | Duplicate validation passed: sales_transactions
+2026-08-23 04:32:46,836 | INFO | NULL primary-key validation passed: sales_transactions
+2026-08-23 04:32:46,845 | INFO | Transformation completed: sales_transactions
+2026-08-23 04:32:46,853 | INFO | Processing table: sales_items
+2026-08-23 04:32:46,853 | INFO | Column validation passed: sales_items
+2026-08-23 04:32:46,853 | INFO | Row validation passed: sales_items (15047 rows)
+2026-08-23 04:32:46,855 | INFO | Duplicate validation passed: sales_items
+2026-08-23 04:32:46,855 | INFO | NULL primary-key validation passed: sales_items
+2026-08-23 04:32:46,855 | INFO | Transformation completed: sales_items
+2026-08-23 04:32:46,855 | INFO | Processing table: vouchers
+2026-08-23 04:32:46,855 | INFO | Column validation passed: vouchers
+2026-08-23 04:32:46,855 | INFO | Row validation passed: vouchers (100 rows)
+2026-08-23 04:32:46,863 | INFO | Duplicate validation passed: vouchers
+2026-08-23 04:32:46,863 | INFO | NULL primary-key validation passed: vouchers
+2026-08-23 04:32:46,879 | INFO | Transformation completed: vouchers
+2026-08-23 04:32:46,879 | INFO | Processing table: voucher_redemptions
+2026-08-23 04:32:46,879 | INFO | Column validation passed: voucher_redemptions
+2026-08-23 04:32:46,879 | INFO | Row validation passed: voucher_redemptions (300 rows)
+2026-08-23 04:32:46,879 | INFO | Duplicate validation passed: voucher_redemptions
+2026-08-23 04:32:46,879 | INFO | NULL primary-key validation passed: voucher_redemptions
+2026-08-23 04:32:46,887 | INFO | Transformation completed: voucher_redemptions
+2026-08-23 04:32:46,889 | INFO | Processing table: returns
+2026-08-23 04:32:46,889 | INFO | Column validation passed: returns
+2026-08-23 04:32:46,889 | INFO | Row validation passed: returns (500 rows)
+2026-08-23 04:32:46,889 | INFO | Duplicate validation passed: returns
+2026-08-23 04:32:46,894 | INFO | NULL primary-key validation passed: returns
+2026-08-23 04:32:46,903 | INFO | Transformation completed: returns
+2026-08-23 04:32:46,903 | INFO | ============================================================
+2026-08-23 04:32:46,905 | INFO | VALIDATION AND TRANSFORMATION COMPLETED
+2026-08-23 04:32:46,905 | INFO | ============================================================
+2026-08-23 04:32:46,905 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.categories
+2026-08-23 04:32:48,272 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-08-23 04:32:48,272 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-08-23 04:32:48,289 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-08-23 04:32:48,289 | ERROR | BigQuery load failed for categories: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-23 04:35:13,336 | INFO | ============================================================
+2026-08-23 04:35:13,336 | INFO | BIGQUERY LOAD STARTED
+2026-08-23 04:35:13,336 | INFO | ============================================================
+2026-08-23 04:35:13,463 | INFO | ============================================================
+2026-08-23 04:35:13,463 | INFO | ETL PROCESS STARTED
+2026-08-23 04:35:13,463 | INFO | ============================================================
+2026-08-23 04:35:13,514 | INFO | MySQL connection successful
+2026-08-23 04:35:14,128 | INFO | Extracted 10 rows from categories
+2026-08-23 04:35:14,145 | INFO | MySQL connection successful
+2026-08-23 04:35:14,161 | INFO | Extracted 50 rows from customers
+2026-08-23 04:35:14,181 | INFO | MySQL connection successful
+2026-08-23 04:35:14,193 | INFO | Extracted 50 rows from products
+2026-08-23 04:35:14,214 | INFO | MySQL connection successful
+2026-08-23 04:35:14,505 | INFO | Extracted 5000 rows from sales_transactions
+2026-08-23 04:35:14,530 | INFO | MySQL connection successful
+2026-08-23 04:35:14,783 | INFO | Extracted 15047 rows from sales_items
+2026-08-23 04:35:14,798 | INFO | MySQL connection successful
+2026-08-23 04:35:14,814 | INFO | Extracted 100 rows from vouchers
+2026-08-23 04:35:14,840 | INFO | MySQL connection successful
+2026-08-23 04:35:14,845 | INFO | Extracted 300 rows from voucher_redemptions
+2026-08-23 04:35:14,880 | INFO | MySQL connection successful
+2026-08-23 04:35:14,898 | INFO | Extracted 500 rows from returns
+2026-08-23 04:35:14,898 | INFO | Processing table: categories
+2026-08-23 04:35:14,898 | INFO | Column validation passed: categories
+2026-08-23 04:35:14,898 | INFO | Row validation passed: categories (10 rows)
+2026-08-23 04:35:14,898 | INFO | Duplicate validation passed: categories
+2026-08-23 04:35:14,898 | INFO | NULL primary-key validation passed: categories
+2026-08-23 04:35:14,917 | INFO | Transformation completed: categories
+2026-08-23 04:35:14,918 | INFO | Processing table: customers
+2026-08-23 04:35:14,918 | INFO | Column validation passed: customers
+2026-08-23 04:35:14,918 | INFO | Row validation passed: customers (50 rows)
+2026-08-23 04:35:14,918 | INFO | Duplicate validation passed: customers
+2026-08-23 04:35:14,918 | INFO | NULL primary-key validation passed: customers
+2026-08-23 04:35:14,930 | INFO | Transformation completed: customers
+2026-08-23 04:35:14,930 | INFO | Processing table: products
+2026-08-23 04:35:14,930 | INFO | Column validation passed: products
+2026-08-23 04:35:14,930 | INFO | Row validation passed: products (50 rows)
+2026-08-23 04:35:14,930 | INFO | Duplicate validation passed: products
+2026-08-23 04:35:14,939 | INFO | NULL primary-key validation passed: products
+2026-08-23 04:35:14,947 | INFO | Transformation completed: products
+2026-08-23 04:35:14,947 | INFO | Processing table: sales_transactions
+2026-08-23 04:35:14,947 | INFO | Column validation passed: sales_transactions
+2026-08-23 04:35:14,947 | INFO | Row validation passed: sales_transactions (5000 rows)
+2026-08-23 04:35:14,947 | INFO | Duplicate validation passed: sales_transactions
+2026-08-23 04:35:14,953 | INFO | NULL primary-key validation passed: sales_transactions
+2026-08-23 04:35:14,963 | INFO | Transformation completed: sales_transactions
+2026-08-23 04:35:14,963 | INFO | Processing table: sales_items
+2026-08-23 04:35:14,963 | INFO | Column validation passed: sales_items
+2026-08-23 04:35:14,963 | INFO | Row validation passed: sales_items (15047 rows)
+2026-08-23 04:35:14,972 | INFO | Duplicate validation passed: sales_items
+2026-08-23 04:35:14,973 | INFO | NULL primary-key validation passed: sales_items
+2026-08-23 04:35:14,973 | INFO | Transformation completed: sales_items
+2026-08-23 04:35:14,973 | INFO | Processing table: vouchers
+2026-08-23 04:35:14,973 | INFO | Column validation passed: vouchers
+2026-08-23 04:35:14,973 | INFO | Row validation passed: vouchers (100 rows)
+2026-08-23 04:35:14,980 | INFO | Duplicate validation passed: vouchers
+2026-08-23 04:35:14,980 | INFO | NULL primary-key validation passed: vouchers
+2026-08-23 04:35:14,988 | INFO | Transformation completed: vouchers
+2026-08-23 04:35:14,988 | INFO | Processing table: voucher_redemptions
+2026-08-23 04:35:14,988 | INFO | Column validation passed: voucher_redemptions
+2026-08-23 04:35:14,988 | INFO | Row validation passed: voucher_redemptions (300 rows)
+2026-08-23 04:35:14,990 | INFO | Duplicate validation passed: voucher_redemptions
+2026-08-23 04:35:14,990 | INFO | NULL primary-key validation passed: voucher_redemptions
+2026-08-23 04:35:14,998 | INFO | Transformation completed: voucher_redemptions
+2026-08-23 04:35:14,998 | INFO | Processing table: returns
+2026-08-23 04:35:14,998 | INFO | Column validation passed: returns
+2026-08-23 04:35:14,998 | INFO | Row validation passed: returns (500 rows)
+2026-08-23 04:35:14,998 | INFO | Duplicate validation passed: returns
+2026-08-23 04:35:15,003 | INFO | NULL primary-key validation passed: returns
+2026-08-23 04:35:15,003 | INFO | Transformation completed: returns
+2026-08-23 04:35:15,003 | INFO | ============================================================
+2026-08-23 04:35:15,011 | INFO | VALIDATION AND TRANSFORMATION COMPLETED
+2026-08-23 04:35:15,011 | INFO | ============================================================
+2026-08-23 04:35:15,013 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.categories
+2026-08-23 04:35:15,088 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-08-23 04:35:15,088 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-08-23 04:35:15,091 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-08-23 04:35:15,091 | ERROR | BigQuery load failed for categories: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-23 04:38:53,975 | INFO | ============================================================
+2026-08-23 04:38:53,977 | INFO | BIGQUERY LOAD STARTED
+2026-08-23 04:38:53,977 | INFO | ============================================================
+2026-08-23 04:38:54,140 | INFO | ============================================================
+2026-08-23 04:38:54,140 | INFO | ETL PROCESS STARTED
+2026-08-23 04:38:54,140 | INFO | ============================================================
+2026-08-23 04:38:54,255 | INFO | MySQL connection successful
+2026-08-23 04:38:54,783 | INFO | Extracted 10 rows from categories
+2026-08-23 04:38:54,796 | INFO | MySQL connection successful
+2026-08-23 04:38:54,822 | INFO | Extracted 50 rows from customers
+2026-08-23 04:38:54,843 | INFO | MySQL connection successful
+2026-08-23 04:38:54,859 | INFO | Extracted 50 rows from products
+2026-08-23 04:38:54,876 | INFO | MySQL connection successful
+2026-08-23 04:38:55,212 | INFO | Extracted 5000 rows from sales_transactions
+2026-08-23 04:38:55,230 | INFO | MySQL connection successful
+2026-08-23 04:38:55,564 | INFO | Extracted 15047 rows from sales_items
+2026-08-23 04:38:55,601 | INFO | MySQL connection successful
+2026-08-23 04:38:55,617 | INFO | Extracted 100 rows from vouchers
+2026-08-23 04:38:55,631 | INFO | MySQL connection successful
+2026-08-23 04:38:55,648 | INFO | Extracted 300 rows from voucher_redemptions
+2026-08-23 04:38:55,665 | INFO | MySQL connection successful
+2026-08-23 04:38:55,710 | INFO | Extracted 500 rows from returns
+2026-08-23 04:38:55,834 | INFO | Processing table: categories
+2026-08-23 04:38:55,852 | INFO | Column validation passed: categories
+2026-08-23 04:38:55,860 | INFO | Row validation passed: categories (10 rows)
+2026-08-23 04:38:55,907 | INFO | Duplicate validation passed: categories
+2026-08-23 04:38:55,916 | INFO | NULL primary-key validation passed: categories
+2026-08-23 04:38:55,968 | INFO | Transformation completed: categories
+2026-08-23 04:38:55,968 | INFO | Processing table: customers
+2026-08-23 04:38:55,968 | INFO | Column validation passed: customers
+2026-08-23 04:38:55,968 | INFO | Row validation passed: customers (50 rows)
+2026-08-23 04:38:55,976 | INFO | Duplicate validation passed: customers
+2026-08-23 04:38:55,976 | INFO | NULL primary-key validation passed: customers
+2026-08-23 04:38:56,016 | INFO | Transformation completed: customers
+2026-08-23 04:38:56,018 | INFO | Processing table: products
+2026-08-23 04:38:56,022 | INFO | Column validation passed: products
+2026-08-23 04:38:56,023 | INFO | Row validation passed: products (50 rows)
+2026-08-23 04:38:56,024 | INFO | Duplicate validation passed: products
+2026-08-23 04:38:56,026 | INFO | NULL primary-key validation passed: products
+2026-08-23 04:38:56,034 | INFO | Transformation completed: products
+2026-08-23 04:38:56,041 | INFO | Processing table: sales_transactions
+2026-08-23 04:38:56,044 | INFO | Column validation passed: sales_transactions
+2026-08-23 04:38:56,044 | INFO | Row validation passed: sales_transactions (5000 rows)
+2026-08-23 04:38:56,052 | INFO | Duplicate validation passed: sales_transactions
+2026-08-23 04:38:56,052 | INFO | NULL primary-key validation passed: sales_transactions
+2026-08-23 04:38:56,084 | INFO | Transformation completed: sales_transactions
+2026-08-23 04:38:56,084 | INFO | Processing table: sales_items
+2026-08-23 04:38:56,084 | INFO | Column validation passed: sales_items
+2026-08-23 04:38:56,092 | INFO | Row validation passed: sales_items (15047 rows)
+2026-08-23 04:38:56,094 | INFO | Duplicate validation passed: sales_items
+2026-08-23 04:38:56,094 | INFO | NULL primary-key validation passed: sales_items
+2026-08-23 04:38:56,101 | INFO | Transformation completed: sales_items
+2026-08-23 04:38:56,101 | INFO | Processing table: vouchers
+2026-08-23 04:38:56,101 | INFO | Column validation passed: vouchers
+2026-08-23 04:38:56,101 | INFO | Row validation passed: vouchers (100 rows)
+2026-08-23 04:38:56,109 | INFO | Duplicate validation passed: vouchers
+2026-08-23 04:38:56,111 | INFO | NULL primary-key validation passed: vouchers
+2026-08-23 04:38:56,117 | INFO | Transformation completed: vouchers
+2026-08-23 04:38:56,117 | INFO | Processing table: voucher_redemptions
+2026-08-23 04:38:56,125 | INFO | Column validation passed: voucher_redemptions
+2026-08-23 04:38:56,133 | INFO | Row validation passed: voucher_redemptions (300 rows)
+2026-08-23 04:38:56,133 | INFO | Duplicate validation passed: voucher_redemptions
+2026-08-23 04:38:56,141 | INFO | NULL primary-key validation passed: voucher_redemptions
+2026-08-23 04:38:56,149 | INFO | Transformation completed: voucher_redemptions
+2026-08-23 04:38:56,149 | INFO | Processing table: returns
+2026-08-23 04:38:56,149 | INFO | Column validation passed: returns
+2026-08-23 04:38:56,149 | INFO | Row validation passed: returns (500 rows)
+2026-08-23 04:38:56,149 | INFO | Duplicate validation passed: returns
+2026-08-23 04:38:56,149 | INFO | NULL primary-key validation passed: returns
+2026-08-23 04:38:56,165 | INFO | Transformation completed: returns
+2026-08-23 04:38:56,165 | INFO | ============================================================
+2026-08-23 04:38:56,165 | INFO | VALIDATION AND TRANSFORMATION COMPLETED
+2026-08-23 04:38:56,165 | INFO | ============================================================
+2026-08-23 04:38:56,169 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.categories
+2026-08-23 04:39:04,122 | INFO | Loaded 10 rows into retailmart-analytics-506321.retailmart_raw.categories
+2026-08-23 04:39:04,122 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.customers
+2026-08-23 04:39:08,877 | INFO | Loaded 50 rows into retailmart-analytics-506321.retailmart_raw.customers
+2026-08-23 04:39:08,877 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.products
+2026-08-23 04:39:12,781 | INFO | Loaded 50 rows into retailmart-analytics-506321.retailmart_raw.products
+2026-08-23 04:39:12,781 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.sales_transactions
+2026-08-23 04:39:17,141 | INFO | Loaded 5000 rows into retailmart-analytics-506321.retailmart_raw.sales_transactions
+2026-08-23 04:39:17,141 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.sales_items
+2026-08-23 04:39:21,707 | INFO | Loaded 15047 rows into retailmart-analytics-506321.retailmart_raw.sales_items
+2026-08-23 04:39:21,707 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.vouchers
+2026-08-23 04:39:26,226 | INFO | Loaded 100 rows into retailmart-analytics-506321.retailmart_raw.vouchers
+2026-08-23 04:39:26,240 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.voucher_redemptions
+2026-08-23 04:39:30,884 | INFO | Loaded 300 rows into retailmart-analytics-506321.retailmart_raw.voucher_redemptions
+2026-08-23 04:39:30,884 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.returns
+2026-08-23 04:39:34,809 | INFO | Loaded 500 rows into retailmart-analytics-506321.retailmart_raw.returns
+2026-08-23 04:39:34,809 | INFO | ============================================================
+2026-08-23 04:39:34,810 | INFO | BIGQUERY LOAD COMPLETED
+2026-08-23 04:39:34,810 | INFO | ============================================================
+2026-08-23 04:57:09,384 | INFO | ============================================================
+2026-08-23 04:57:09,384 | INFO | BIGQUERY LOAD STARTED
+2026-08-23 04:57:09,384 | INFO | ============================================================
+2026-08-23 04:57:09,537 | INFO | ============================================================
+2026-08-23 04:57:09,537 | INFO | ETL PROCESS STARTED
+2026-08-23 04:57:09,541 | INFO | ============================================================
+2026-08-23 04:57:09,704 | INFO | MySQL connection successful
+2026-08-23 04:57:10,238 | INFO | Extracted 10 rows from categories
+2026-08-23 04:57:10,255 | INFO | MySQL connection successful
+2026-08-23 04:57:10,272 | INFO | Extracted 50 rows from customers
+2026-08-23 04:57:10,288 | INFO | MySQL connection successful
+2026-08-23 04:57:10,305 | INFO | Extracted 50 rows from products
+2026-08-23 04:57:10,329 | INFO | MySQL connection successful
+2026-08-23 04:57:10,608 | INFO | Extracted 5000 rows from sales_transactions
+2026-08-23 04:57:10,632 | INFO | MySQL connection successful
+2026-08-23 04:57:10,818 | INFO | Extracted 15047 rows from sales_items
+2026-08-23 04:57:10,834 | INFO | MySQL connection successful
+2026-08-23 04:57:10,841 | INFO | Extracted 100 rows from vouchers
+2026-08-23 04:57:10,859 | INFO | MySQL connection successful
+2026-08-23 04:57:10,872 | INFO | Extracted 300 rows from voucher_redemptions
+2026-08-23 04:57:10,895 | INFO | MySQL connection successful
+2026-08-23 04:57:10,910 | INFO | Extracted 500 rows from returns
+2026-08-23 04:57:10,910 | INFO | Processing table: categories
+2026-08-23 04:57:10,910 | INFO | Column validation passed: categories
+2026-08-23 04:57:10,918 | INFO | Row validation passed: categories (10 rows)
+2026-08-23 04:57:10,925 | INFO | Duplicate validation passed: categories
+2026-08-23 04:57:10,934 | INFO | NULL primary-key validation passed: categories
+2026-08-23 04:57:11,006 | INFO | Transformation completed: categories
+2026-08-23 04:57:11,042 | INFO | Processing table: customers
+2026-08-23 04:57:11,096 | INFO | Column validation passed: customers
+2026-08-23 04:57:11,096 | INFO | Row validation passed: customers (50 rows)
+2026-08-23 04:57:11,104 | INFO | Duplicate validation passed: customers
+2026-08-23 04:57:11,104 | INFO | NULL primary-key validation passed: customers
+2026-08-23 04:57:11,146 | INFO | Transformation completed: customers
+2026-08-23 04:57:11,146 | INFO | Processing table: products
+2026-08-23 04:57:11,146 | INFO | Column validation passed: products
+2026-08-23 04:57:11,154 | INFO | Row validation passed: products (50 rows)
+2026-08-23 04:57:11,156 | INFO | Duplicate validation passed: products
+2026-08-23 04:57:11,156 | INFO | NULL primary-key validation passed: products
+2026-08-23 04:57:11,180 | INFO | Transformation completed: products
+2026-08-23 04:57:11,193 | INFO | Processing table: sales_transactions
+2026-08-23 04:57:11,193 | INFO | Column validation passed: sales_transactions
+2026-08-23 04:57:11,206 | INFO | Row validation passed: sales_transactions (5000 rows)
+2026-08-23 04:57:11,206 | INFO | Duplicate validation passed: sales_transactions
+2026-08-23 04:57:11,206 | INFO | NULL primary-key validation passed: sales_transactions
+2026-08-23 04:57:11,234 | INFO | Transformation completed: sales_transactions
+2026-08-23 04:57:11,239 | INFO | Processing table: sales_items
+2026-08-23 04:57:11,239 | INFO | Column validation passed: sales_items
+2026-08-23 04:57:11,239 | INFO | Row validation passed: sales_items (15047 rows)
+2026-08-23 04:57:11,247 | INFO | Duplicate validation passed: sales_items
+2026-08-23 04:57:11,247 | INFO | NULL primary-key validation passed: sales_items
+2026-08-23 04:57:11,247 | INFO | Transformation completed: sales_items
+2026-08-23 04:57:11,260 | INFO | Processing table: vouchers
+2026-08-23 04:57:11,260 | INFO | Column validation passed: vouchers
+2026-08-23 04:57:11,260 | INFO | Row validation passed: vouchers (100 rows)
+2026-08-23 04:57:11,260 | INFO | Duplicate validation passed: vouchers
+2026-08-23 04:57:11,260 | INFO | NULL primary-key validation passed: vouchers
+2026-08-23 04:57:11,289 | INFO | Transformation completed: vouchers
+2026-08-23 04:57:11,293 | INFO | Processing table: voucher_redemptions
+2026-08-23 04:57:11,293 | INFO | Column validation passed: voucher_redemptions
+2026-08-23 04:57:11,295 | INFO | Row validation passed: voucher_redemptions (300 rows)
+2026-08-23 04:57:11,295 | INFO | Duplicate validation passed: voucher_redemptions
+2026-08-23 04:57:11,295 | INFO | NULL primary-key validation passed: voucher_redemptions
+2026-08-23 04:57:11,306 | INFO | Transformation completed: voucher_redemptions
+2026-08-23 04:57:11,310 | INFO | Processing table: returns
+2026-08-23 04:57:11,310 | INFO | Column validation passed: returns
+2026-08-23 04:57:11,310 | INFO | Row validation passed: returns (500 rows)
+2026-08-23 04:57:11,327 | INFO | Duplicate validation passed: returns
+2026-08-23 04:57:11,327 | INFO | NULL primary-key validation passed: returns
+2026-08-23 04:57:11,354 | INFO | Transformation completed: returns
+2026-08-23 04:57:11,360 | INFO | ============================================================
+2026-08-23 04:57:11,360 | INFO | VALIDATION AND TRANSFORMATION COMPLETED
+2026-08-23 04:57:11,360 | INFO | ============================================================
+2026-08-23 04:57:11,369 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.categories
+2026-08-23 04:57:19,949 | INFO | Loaded 10 rows into retailmart-analytics-506321.retailmart_raw.categories
+2026-08-23 04:57:19,956 | INFO | Row count validation passed: categories
+2026-08-23 04:57:19,956 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.customers
+2026-08-23 04:57:24,120 | INFO | Loaded 50 rows into retailmart-analytics-506321.retailmart_raw.customers
+2026-08-23 04:57:24,120 | INFO | Row count validation passed: customers
+2026-08-23 04:57:24,123 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.products
+2026-08-23 04:57:28,739 | INFO | Loaded 50 rows into retailmart-analytics-506321.retailmart_raw.products
+2026-08-23 04:57:28,739 | INFO | Row count validation passed: products
+2026-08-23 04:57:28,745 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.sales_transactions
+2026-08-23 04:57:33,165 | INFO | Loaded 5000 rows into retailmart-analytics-506321.retailmart_raw.sales_transactions
+2026-08-23 04:57:33,165 | INFO | Row count validation passed: sales_transactions
+2026-08-23 04:57:33,165 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.sales_items
+2026-08-23 04:57:37,804 | INFO | Loaded 15047 rows into retailmart-analytics-506321.retailmart_raw.sales_items
+2026-08-23 04:57:37,804 | INFO | Row count validation passed: sales_items
+2026-08-23 04:57:37,804 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.vouchers
+2026-08-23 04:57:41,959 | INFO | Loaded 100 rows into retailmart-analytics-506321.retailmart_raw.vouchers
+2026-08-23 04:57:41,959 | INFO | Row count validation passed: vouchers
+2026-08-23 04:57:41,959 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.voucher_redemptions
+2026-08-23 04:57:46,480 | INFO | Loaded 300 rows into retailmart-analytics-506321.retailmart_raw.voucher_redemptions
+2026-08-23 04:57:46,480 | INFO | Row count validation passed: voucher_redemptions
+2026-08-23 04:57:46,480 | INFO | Starting BigQuery load: retailmart-analytics-506321.retailmart_raw.returns
+2026-08-23 04:57:50,971 | INFO | Loaded 500 rows into retailmart-analytics-506321.retailmart_raw.returns
+2026-08-23 04:57:50,971 | INFO | Row count validation passed: returns
+2026-08-23 04:57:50,971 | INFO | ============================================================
+2026-08-23 04:57:50,971 | INFO | BIGQUERY LOAD COMPLETED
+2026-08-23 04:57:50,971 | INFO | ============================================================

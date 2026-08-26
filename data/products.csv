@@ -1,0 +1,51 @@
+product_id,product_name,category_id,unit_price,cost_price,stock_quantity,is_active
+1,Wireless Bluetooth Headphones,1,2499.00,1800.00,150,1
+2,USB-C Charging Cable,1,299.00,120.00,500,1
+3,Power Bank 10000mAh,1,1299.00,850.00,200,1
+4,Men Cotton T-Shirt,2,599.00,250.00,300,1
+5,Women Denim Jeans,2,1499.00,700.00,180,1
+6,Kids Winter Jacket,2,1999.00,1100.00,100,1
+7,Basmati Rice 5kg,3,450.00,380.00,400,1
+8,Cooking Oil 1L,3,180.00,150.00,600,1
+9,Wheat Flour 10kg,3,520.00,450.00,350,1
+10,Non-Stick Frying Pan,4,899.00,500.00,120,1
+11,Stainless Steel Knife Set,4,1299.00,700.00,80,1
+12,Glass Storage Containers,4,649.00,350.00,150,1
+13,Face Wash 100ml,5,249.00,120.00,400,1
+14,Body Lotion 200ml,5,399.00,180.00,300,1
+15,Shampoo 500ml,5,349.00,160.00,350,1
+16,Yoga Mat,6,799.00,400.00,100,1
+17,Dumbbell Set 5kg,6,1499.00,900.00,60,1
+18,Skipping Rope,6,199.00,80.00,200,1
+19,Notebook Pack of 5,7,149.00,70.00,500,1
+20,Ball Pen Pack of 10,7,99.00,40.00,800,1
+21,Fiction Novel,7,399.00,200.00,150,1
+22,Board Game - Monopoly,8,999.00,550.00,50,1
+23,Building Blocks Set,8,699.00,350.00,80,1
+24,Soft Toy Bear,8,499.00,200.00,120,1
+25,Men Running Shoes,9,2499.00,1400.00,100,1
+26,Women Sandals,9,899.00,450.00,150,1
+27,Kids School Shoes,9,1299.00,700.00,120,1
+28,Leather Wallet,10,799.00,350.00,200,1
+29,Laptop Backpack,10,1499.00,800.00,100,1
+30,Sunglasses,10,699.00,300.00,180,1
+31,Smartwatch Basic,1,3499.00,2200.00,80,1
+32,Wireless Mouse,1,599.00,300.00,250,1
+33,Men Formal Shirt,2,1299.00,600.00,200,1
+34,Women Kurti,2,899.00,400.00,250,1
+35,Sugar 5kg,3,280.00,240.00,300,1
+36,Tea 500g,3,320.00,250.00,400,1
+37,Pressure Cooker 3L,4,1899.00,1100.00,70,1
+38,Bedsheet Double,4,999.00,500.00,150,1
+39,Sunscreen SPF50,5,549.00,280.00,200,1
+40,Hair Oil 200ml,5,199.00,90.00,350,1
+41,Football,6,899.00,500.00,60,1
+42,Badminton Racket,6,699.00,350.00,80,1
+43,Drawing Book,7,79.00,35.00,400,1
+44,Colored Pencils Set,7,199.00,90.00,300,1
+45,Remote Control Car,8,1299.00,700.00,50,1
+46,Puzzle 500 pieces,8,449.00,220.00,100,1
+47,Men Loafers,9,1799.00,950.00,80,1
+48,Women Heels,9,1999.00,1000.00,60,1
+49,Travel Bag,10,2499.00,1400.00,50,1
+50,Wrist Watch,10,1999.00,1000.00,100,1

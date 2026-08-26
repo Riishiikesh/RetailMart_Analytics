@@ -1,0 +1,501 @@
+return_id,transaction_id,item_id,customer_id,product_id,return_date,return_quantity,return_reason,refund_amount,refund_status
+1,4908,14763,39,6,2024-07-16,1,Changed Mind,1999,Processed
+2,2757,8282,44,7,2024-11-15,1,Defective,450,Processed
+3,901,2682,30,18,2023-09-30,1,Better Price Elsewhere,199,Processed
+4,911,2706,7,36,2023-09-21,2,Wrong Size,640,Pending
+5,2336,7063,18,43,2024-04-08,1,Changed Mind,79,Processed
+6,4774,14331,17,22,2023-04-04,1,Defective,999,Processed
+7,4862,14619,38,35,2024-10-08,3,Wrong Size,840,Processed
+8,3214,9646,24,40,2024-05-11,3,Changed Mind,597,Pending
+9,1279,3832,24,33,2024-07-04,1,Better Price Elsewhere,1299,Pending
+10,288,880,18,36,2024-06-06,1,Changed Mind,320,Processed
+11,2413,7287,50,45,2024-11-27,1,Better Price Elsewhere,1299,Processed
+12,1595,4764,50,4,2023-12-18,1,Not as Described,599,Processed
+13,2867,8625,36,20,2023-02-28,3,Better Price Elsewhere,297,Processed
+14,2189,6625,38,21,2023-09-12,2,Wrong Size,798,Processed
+15,371,1122,8,1,2024-03-10,2,Better Price Elsewhere,4998,Processed
+16,331,998,1,29,2024-10-10,1,Defective,1499,Processed
+17,2341,7075,14,38,2023-05-29,1,Changed Mind,999,Processed
+18,70,211,49,44,2023-12-27,1,Not as Described,199,Pending
+19,810,2423,2,10,2024-08-01,1,Wrong Size,899,Processed
+20,3728,11206,22,18,2023-07-05,1,Defective,199,Processed
+21,2254,6824,20,28,2024-07-28,1,Not as Described,799,Pending
+22,3484,10483,8,37,2023-01-11,3,Better Price Elsewhere,5697,Pending
+23,933,2767,28,18,2023-09-23,2,Not as Described,398,Processed
+24,4633,13923,44,36,2024-10-17,1,Wrong Size,320,Processed
+25,3665,11036,5,19,2023-05-27,1,Wrong Size,149,Processed
+26,2687,8069,15,29,2024-01-21,2,Defective,2998,Pending
+27,2542,7646,31,32,2024-11-27,2,Defective,1198,Processed
+28,309,941,22,41,2023-07-23,3,Wrong Size,2697,Processed
+29,2804,8424,33,4,2023-08-05,1,Not as Described,599,Pending
+30,2721,8172,10,34,2024-01-25,3,Defective,2697,Processed
+31,687,2064,27,17,2024-03-04,2,Changed Mind,2998,Processed
+32,4467,13420,41,24,2023-09-30,1,Better Price Elsewhere,499,Processed
+33,728,2163,38,25,2024-12-20,2,Defective,4998,Processed
+34,3458,10404,22,46,2024-06-25,3,Wrong Size,1347,Pending
+35,2410,7280,28,47,2023-02-11,1,Wrong Size,1799,Processed
+36,2084,6321,19,9,2024-02-28,1,Better Price Elsewhere,520,Processed
+37,2722,8177,5,20,2023-02-08,1,Changed Mind,99,Processed
+38,2588,7783,28,29,2023-11-11,1,Not as Described,1499,Pending
+39,4980,14981,32,28,2023-07-02,2,Changed Mind,1598,Processed
+40,1906,5746,18,43,2024-09-05,2,Not as Described,158,Processed
+41,4755,14273,47,37,2024-08-07,1,Wrong Size,1899,Processed
+42,4459,13404,28,17,2023-07-24,2,Not as Described,2998,Processed
+43,3541,10667,17,35,2024-05-15,1,Changed Mind,280,Processed
+44,1666,4986,34,6,2024-12-12,3,Wrong Size,5997,Processed
+45,4494,13498,42,9,2024-12-31,2,Defective,1040,Processed
+46,4180,12550,12,4,2023-08-29,3,Not as Described,1797,Pending
+47,3070,9232,1,18,2023-05-08,1,Defective,199,Pending
+48,4563,13708,15,13,2023-04-26,2,Defective,498,Processed
+49,4651,13964,48,43,2023-05-05,1,Defective,79,Processed
+50,677,2043,12,45,2024-05-27,1,Better Price Elsewhere,1299,Processed
+51,2877,8652,39,36,2024-03-20,2,Wrong Size,640,Processed
+52,4742,14241,7,18,2023-04-04,2,Wrong Size,398,Processed
+53,4066,12215,34,12,2024-09-02,1,Not as Described,649,Pending
+54,1449,4343,10,10,2023-11-19,1,Defective,899,Processed
+55,2774,8333,12,39,2024-11-17,1,Not as Described,549,Pending
+56,479,1428,30,35,2024-09-26,1,Defective,280,Pending
+57,1327,3991,10,4,2024-12-31,1,Changed Mind,599,Processed
+58,269,826,20,21,2024-11-06,1,Not as Described,399,Processed
+59,1352,4060,13,14,2024-08-28,3,Wrong Size,1197,Processed
+60,3128,9393,9,25,2023-05-10,2,Defective,4998,Processed
+61,2344,7083,5,36,2024-02-08,2,Better Price Elsewhere,640,Processed
+62,2939,8837,9,48,2024-11-08,1,Changed Mind,1999,Pending
+63,2111,6402,7,20,2024-08-06,2,Changed Mind,198,Processed
+64,4399,13221,22,20,2023-02-17,1,Better Price Elsewhere,99,Processed
+65,3429,10308,4,26,2023-10-29,1,Changed Mind,899,Processed
+66,3794,11409,11,22,2023-09-11,1,Better Price Elsewhere,999,Processed
+67,1057,3149,33,18,2023-12-08,2,Changed Mind,398,Pending
+68,1748,5236,3,34,2024-09-27,2,Changed Mind,1798,Pending
+69,2370,7164,21,6,2024-12-28,1,Not as Described,1999,Pending
+70,424,1272,46,38,2024-08-06,1,Defective,999,Processed
+71,4564,13712,19,48,2023-07-05,2,Changed Mind,3998,Pending
+72,3109,9335,12,37,2024-02-27,1,Better Price Elsewhere,1899,Processed
+73,4654,13980,28,15,2023-03-30,2,Not as Described,698,Processed
+74,3359,10091,29,8,2024-10-19,2,Defective,360,Processed
+75,2016,6111,21,47,2023-10-25,1,Changed Mind,1799,Processed
+76,4972,14955,24,24,2024-07-28,1,Defective,499,Processed
+77,3636,10938,17,32,2024-12-23,1,Wrong Size,599,Processed
+78,2327,7035,42,7,2023-12-30,3,Wrong Size,1350,Processed
+79,757,2246,31,6,2024-01-13,2,Wrong Size,3998,Processed
+80,144,439,29,16,2023-03-12,1,Defective,799,Processed
+81,2706,8129,11,44,2024-08-16,2,Wrong Size,398,Processed
+82,1576,4697,34,28,2024-06-05,1,Changed Mind,799,Processed
+83,3864,11606,41,6,2024-02-08,1,Defective,1999,Processed
+84,127,388,13,29,2023-06-30,2,Wrong Size,2998,Processed
+85,827,2458,10,19,2024-08-23,1,Not as Described,149,Processed
+86,4850,14583,39,39,2024-04-23,1,Defective,549,Pending
+87,1917,5778,17,2,2024-11-11,1,Wrong Size,299,Pending
+88,3195,9592,12,14,2023-05-29,1,Not as Described,399,Processed
+89,2976,8945,21,15,2024-07-08,1,Not as Described,349,Processed
+90,4744,14244,33,44,2024-05-24,1,Wrong Size,199,Processed
+91,3677,11074,15,22,2023-07-28,1,Changed Mind,999,Pending
+92,3902,11740,28,42,2024-03-18,1,Wrong Size,699,Processed
+93,4047,12162,9,36,2024-11-15,1,Defective,320,Processed
+94,473,1412,40,49,2023-12-02,3,Changed Mind,7497,Processed
+95,56,168,42,21,2024-01-07,1,Defective,399,Processed
+96,2386,7208,36,11,2024-05-24,2,Better Price Elsewhere,2598,Processed
+97,556,1681,37,41,2023-02-10,1,Changed Mind,899,Pending
+98,3679,11081,25,3,2023-11-06,2,Defective,2598,Processed
+99,544,1640,35,5,2024-11-24,1,Better Price Elsewhere,1499,Processed
+100,1698,5089,44,33,2024-10-04,3,Better Price Elsewhere,3897,Pending
+101,91,271,49,48,2024-10-14,1,Better Price Elsewhere,1999,Processed
+102,3060,9197,35,17,2024-10-10,1,Defective,1499,Pending
+103,1617,4824,49,4,2023-09-20,1,Wrong Size,599,Processed
+104,1189,3557,23,5,2024-11-18,1,Changed Mind,1499,Processed
+105,4037,12130,11,16,2024-09-27,1,Defective,799,Processed
+106,1646,4913,13,25,2023-12-09,1,Not as Described,2499,Pending
+107,3565,10733,2,26,2024-02-10,3,Not as Described,2697,Processed
+108,322,973,30,45,2024-09-29,1,Defective,1299,Processed
+109,3022,9092,31,48,2023-08-05,1,Better Price Elsewhere,1999,Processed
+110,3523,10610,11,36,2024-01-21,1,Changed Mind,320,Processed
+111,686,2061,38,20,2023-06-04,1,Changed Mind,99,Processed
+112,3974,11956,11,16,2024-01-29,2,Changed Mind,1598,Processed
+113,4079,12255,2,24,2023-10-20,3,Better Price Elsewhere,1497,Processed
+114,3227,9680,45,29,2023-06-29,1,Better Price Elsewhere,1499,Processed
+115,4970,14949,34,38,2023-10-05,1,Defective,999,Processed
+116,3164,9495,42,31,2024-03-27,2,Defective,6998,Pending
+117,3603,10832,10,44,2023-12-25,1,Changed Mind,199,Pending
+118,2573,7743,14,32,2023-05-13,3,Changed Mind,1797,Processed
+119,2712,8148,36,13,2023-10-04,1,Wrong Size,249,Processed
+120,1675,5011,2,44,2024-04-23,1,Not as Described,199,Processed
+121,77,233,29,34,2024-09-27,1,Not as Described,899,Processed
+122,3248,9753,19,10,2023-02-12,1,Not as Described,899,Pending
+123,3888,11694,40,50,2023-08-28,2,Changed Mind,3998,Pending
+124,3303,9923,31,39,2023-06-21,2,Not as Described,1098,Processed
+125,4565,13715,5,32,2024-01-29,1,Wrong Size,599,Processed
+126,3796,11415,1,9,2023-08-22,1,Defective,520,Pending
+127,2042,6193,42,33,2023-06-05,1,Not as Described,1299,Pending
+128,1653,4941,39,47,2024-02-10,1,Defective,1799,Processed
+129,4342,13049,42,16,2023-04-29,1,Wrong Size,799,Processed
+130,3894,11711,43,25,2024-09-23,1,Wrong Size,2499,Processed
+131,3263,9807,31,47,2023-02-04,1,Defective,1799,Processed
+132,4661,13998,32,36,2024-12-31,1,Changed Mind,320,Processed
+133,3448,10370,25,1,2024-03-27,1,Wrong Size,2499,Processed
+134,1514,4513,42,25,2023-08-31,1,Not as Described,2499,Processed
+135,4152,12473,17,5,2023-09-23,1,Defective,1499,Processed
+136,1061,3168,39,19,2024-05-30,1,Wrong Size,149,Processed
+137,4432,13325,50,5,2023-05-02,1,Not as Described,1499,Processed
+138,1260,3777,35,9,2024-11-22,1,Changed Mind,520,Processed
+139,4556,13697,50,1,2024-08-15,2,Better Price Elsewhere,4998,Processed
+140,2142,6491,28,5,2023-10-22,1,Defective,1499,Processed
+141,2195,6640,9,10,2024-11-21,2,Changed Mind,1798,Processed
+142,3264,9810,41,48,2024-06-25,1,Changed Mind,1999,Processed
+143,1846,5531,11,23,2023-12-19,1,Not as Described,699,Processed
+144,2233,6744,10,23,2024-12-28,1,Wrong Size,699,Pending
+145,4615,13869,38,4,2024-11-06,2,Changed Mind,1198,Processed
+146,4193,12587,32,43,2023-11-11,1,Not as Described,79,Processed
+147,3880,11668,50,10,2024-12-10,1,Wrong Size,899,Processed
+148,1663,4975,41,2,2023-05-17,1,Changed Mind,299,Processed
+149,2103,6375,38,46,2024-06-19,2,Changed Mind,898,Processed
+150,400,1204,22,9,2024-09-19,1,Defective,520,Processed
+151,1832,5488,22,17,2023-05-01,1,Better Price Elsewhere,1499,Processed
+152,1007,2992,45,37,2023-03-25,1,Wrong Size,1899,Processed
+153,3158,9474,18,25,2024-12-21,1,Wrong Size,2499,Processed
+154,1545,4616,45,20,2023-06-03,1,Changed Mind,99,Pending
+155,3947,11874,20,39,2024-02-23,1,Better Price Elsewhere,549,Processed
+156,4391,13200,12,4,2023-02-15,1,Wrong Size,599,Processed
+157,2996,9005,20,28,2023-12-04,1,Better Price Elsewhere,799,Processed
+158,2565,7724,43,43,2024-07-14,1,Changed Mind,79,Processed
+159,3127,9391,10,38,2023-03-14,1,Changed Mind,999,Processed
+160,2061,6256,19,27,2024-07-07,1,Better Price Elsewhere,1299,Processed
+161,115,351,49,3,2023-05-22,1,Changed Mind,1299,Processed
+162,3205,9620,9,37,2024-01-28,1,Better Price Elsewhere,1899,Processed
+163,2060,6254,17,10,2023-08-08,1,Not as Described,899,Processed
+164,4912,14775,17,1,2023-05-07,1,Not as Described,2499,Pending
+165,484,1452,25,34,2024-05-08,1,Better Price Elsewhere,899,Processed
+166,113,348,41,23,2024-01-05,3,Changed Mind,2097,Processed
+167,4758,14276,10,41,2023-08-02,2,Changed Mind,1798,Processed
+168,2961,8902,16,10,2024-04-25,1,Wrong Size,899,Processed
+169,4842,14547,32,19,2023-07-18,2,Changed Mind,298,Processed
+170,433,1297,38,14,2023-08-15,1,Defective,399,Processed
+171,2946,8859,28,41,2023-12-02,1,Changed Mind,899,Processed
+172,2711,8144,6,8,2024-11-02,1,Defective,180,Processed
+173,4503,13533,41,45,2024-01-02,3,Changed Mind,3897,Processed
+174,4207,12633,6,1,2023-04-13,1,Changed Mind,2499,Processed
+175,4594,13802,15,42,2023-04-23,1,Defective,699,Processed
+176,2698,8102,24,14,2024-11-06,1,Defective,399,Processed
+177,1309,3925,29,21,2024-10-02,1,Better Price Elsewhere,399,Processed
+178,2911,8759,3,33,2024-09-30,1,Not as Described,1299,Processed
+179,579,1757,12,12,2024-11-01,2,Changed Mind,1298,Processed
+180,4194,12591,5,25,2024-04-09,1,Not as Described,2499,Pending
+181,3866,11614,23,37,2024-04-04,1,Changed Mind,1899,Pending
+182,3449,10373,45,43,2023-01-25,1,Changed Mind,79,Processed
+183,2397,7240,47,14,2024-12-01,1,Changed Mind,399,Processed
+184,4009,12046,23,2,2024-08-09,1,Not as Described,299,Processed
+185,2056,6244,14,21,2023-01-29,2,Not as Described,798,Pending
+186,1394,4187,15,1,2023-03-16,1,Changed Mind,2499,Processed
+187,3941,11854,1,7,2023-11-09,3,Not as Described,1350,Processed
+188,4870,14646,19,20,2024-12-16,1,Defective,99,Processed
+189,4683,14064,37,46,2024-08-20,1,Better Price Elsewhere,449,Processed
+190,2824,8484,48,38,2023-07-28,2,Wrong Size,1998,Processed
+191,4222,12673,49,35,2024-12-03,1,Defective,280,Processed
+192,165,510,27,32,2024-11-01,3,Wrong Size,1797,Processed
+193,3507,10550,32,31,2024-06-15,1,Wrong Size,3499,Processed
+194,4852,14589,34,18,2023-07-25,1,Wrong Size,199,Processed
+195,3916,11783,19,24,2024-01-07,1,Changed Mind,499,Processed
+196,2622,7888,23,30,2024-12-18,1,Wrong Size,699,Processed
+197,3861,11598,39,43,2024-05-26,2,Defective,158,Processed
+198,4648,13958,26,50,2023-05-25,1,Defective,1999,Processed
+199,2273,6881,19,37,2024-12-31,2,Changed Mind,3798,Processed
+200,239,742,31,9,2023-11-24,3,Changed Mind,1560,Processed
+201,1378,4140,22,6,2023-02-13,1,Better Price Elsewhere,1999,Processed
+202,991,2948,23,46,2024-11-30,1,Wrong Size,449,Processed
+203,1256,3765,49,27,2024-12-16,2,Defective,2598,Processed
+204,4330,13009,35,35,2023-06-22,2,Wrong Size,560,Processed
+205,4528,13610,36,47,2023-08-09,3,Not as Described,5397,Processed
+206,4418,13283,1,2,2023-08-30,1,Not as Described,299,Pending
+207,2854,8579,36,35,2024-10-21,3,Changed Mind,840,Processed
+208,4301,12913,17,34,2024-10-13,1,Defective,899,Pending
+209,623,1890,1,29,2023-08-20,2,Defective,2998,Processed
+210,4004,12026,1,39,2023-11-17,1,Defective,549,Pending
+211,2256,6834,2,41,2024-12-31,1,Changed Mind,899,Pending
+212,4291,12888,16,8,2024-04-06,1,Not as Described,180,Processed
+213,2656,7986,29,50,2024-09-08,1,Defective,1999,Processed
+214,319,968,26,35,2023-06-29,1,Defective,280,Processed
+215,1862,5586,3,30,2024-09-02,1,Not as Described,699,Processed
+216,4149,12464,38,24,2024-02-14,2,Wrong Size,998,Processed
+217,25,73,43,24,2024-02-14,1,Better Price Elsewhere,499,Processed
+218,1040,3089,41,19,2024-02-01,2,Better Price Elsewhere,298,Pending
+219,4203,12620,24,19,2023-12-04,1,Better Price Elsewhere,149,Processed
+220,3304,9927,21,15,2023-07-09,2,Not as Described,698,Pending
+221,1520,4535,8,7,2023-04-08,2,Not as Described,900,Pending
+222,2503,7534,33,16,2023-08-13,1,Wrong Size,799,Processed
+223,2747,8254,7,33,2024-12-01,1,Better Price Elsewhere,1299,Processed
+224,4028,12092,46,12,2024-01-08,1,Changed Mind,649,Processed
+225,3030,9114,20,23,2023-04-16,1,Not as Described,699,Processed
+226,3923,11802,33,2,2024-10-21,2,Not as Described,598,Processed
+227,3387,10180,22,2,2023-09-07,2,Wrong Size,598,Processed
+228,3104,9322,16,22,2023-05-17,1,Not as Described,999,Processed
+229,3516,10584,4,11,2023-09-15,2,Wrong Size,2598,Processed
+230,3163,9492,19,13,2023-07-10,3,Better Price Elsewhere,747,Processed
+231,4616,13873,24,48,2024-05-13,1,Defective,1999,Processed
+232,421,1264,48,24,2023-12-06,1,Better Price Elsewhere,499,Pending
+233,2297,6954,18,37,2023-05-07,1,Changed Mind,1899,Processed
+234,3211,9640,48,22,2024-02-27,3,Better Price Elsewhere,2997,Processed
+235,2085,6324,11,38,2023-05-23,2,Not as Described,1998,Pending
+236,1552,4647,13,17,2023-01-06,1,Better Price Elsewhere,1499,Processed
+237,976,2905,15,48,2023-04-07,3,Not as Described,5997,Pending
+238,4345,13054,18,46,2023-10-15,1,Changed Mind,449,Processed
+239,3161,9483,34,26,2024-04-23,2,Wrong Size,1798,Processed
+240,3699,11131,45,10,2023-08-26,1,Changed Mind,899,Pending
+241,871,2590,22,15,2024-12-07,1,Defective,349,Processed
+242,1869,5610,9,30,2023-07-26,2,Better Price Elsewhere,1398,Processed
+243,4273,12837,29,8,2024-03-27,1,Wrong Size,180,Processed
+244,1551,4642,43,24,2023-04-06,1,Defective,499,Processed
+245,2310,6983,13,50,2024-04-09,2,Better Price Elsewhere,3998,Processed
+246,3614,10866,31,24,2023-10-18,1,Defective,499,Processed
+247,1493,4451,45,50,2024-07-22,1,Wrong Size,1999,Pending
+248,3454,10388,9,16,2023-02-20,1,Better Price Elsewhere,799,Pending
+249,2049,6217,43,7,2024-02-15,1,Defective,450,Processed
+250,4424,13298,2,44,2024-06-03,1,Wrong Size,199,Processed
+251,391,1181,32,20,2023-05-14,1,Defective,99,Processed
+252,3846,11550,14,46,2023-10-05,1,Changed Mind,449,Processed
+253,2914,8767,42,16,2023-11-18,1,Defective,799,Processed
+254,1852,5553,17,10,2023-04-08,1,Defective,899,Pending
+255,1815,5427,15,4,2023-07-26,1,Not as Described,599,Processed
+256,3960,11915,3,35,2024-10-24,3,Wrong Size,840,Pending
+257,3845,11547,7,9,2024-05-26,1,Defective,520,Pending
+258,1401,4200,25,33,2024-05-17,2,Changed Mind,2598,Pending
+259,3909,11763,6,27,2024-02-12,2,Better Price Elsewhere,2598,Processed
+260,3311,9945,42,19,2023-04-22,1,Wrong Size,149,Processed
+261,4823,14484,32,16,2024-06-16,2,Wrong Size,1598,Processed
+262,57,170,43,4,2023-10-04,1,Defective,599,Processed
+263,4281,12863,46,23,2024-12-31,1,Not as Described,699,Pending
+264,3619,10877,34,21,2024-08-05,1,Defective,399,Processed
+265,4090,12292,49,48,2023-10-12,2,Better Price Elsewhere,3998,Processed
+266,4395,13211,13,15,2024-05-09,3,Not as Described,1047,Processed
+267,3819,11473,10,19,2024-12-08,2,Better Price Elsewhere,298,Pending
+268,1391,4176,41,45,2024-11-03,2,Not as Described,2598,Pending
+269,2342,7077,47,43,2024-10-24,3,Defective,237,Pending
+270,3921,11799,13,1,2023-02-13,1,Defective,2499,Pending
+271,668,2013,21,40,2024-04-16,1,Not as Described,199,Processed
+272,320,969,47,13,2024-12-26,2,Not as Described,498,Processed
+273,3534,10646,50,38,2024-09-30,1,Not as Described,999,Processed
+274,2162,6557,34,2,2024-11-04,1,Changed Mind,299,Pending
+275,2881,8661,2,1,2024-10-29,2,Better Price Elsewhere,4998,Processed
+276,1166,3486,15,15,2024-06-12,1,Better Price Elsewhere,349,Processed
+277,2713,8150,11,4,2023-11-04,1,Defective,599,Pending
+278,1319,3968,49,19,2024-04-22,2,Wrong Size,298,Processed
+279,3373,10136,26,3,2024-03-15,3,Not as Described,3897,Processed
+280,4053,12173,29,27,2024-02-06,1,Changed Mind,1299,Processed
+281,1478,4417,33,19,2023-06-30,2,Not as Described,298,Processed
+282,2826,8496,40,17,2023-08-19,1,Changed Mind,1499,Processed
+283,4559,13701,41,26,2023-11-13,1,Changed Mind,899,Processed
+284,1989,6022,43,1,2023-05-09,1,Better Price Elsewhere,2499,Processed
+285,4163,12509,14,4,2024-11-15,1,Changed Mind,599,Processed
+286,428,1284,25,32,2024-06-27,1,Wrong Size,599,Pending
+287,3615,10868,49,22,2024-11-24,2,Better Price Elsewhere,1998,Processed
+288,1706,5111,35,35,2024-03-07,1,Changed Mind,280,Processed
+289,1824,5458,43,26,2023-06-07,2,Changed Mind,1798,Processed
+290,492,1476,49,31,2023-05-08,1,Not as Described,3499,Processed
+291,3705,11144,26,19,2023-09-21,2,Defective,298,Processed
+292,2192,6633,21,10,2024-05-10,2,Wrong Size,1798,Pending
+293,4472,13430,22,2,2023-05-15,1,Not as Described,299,Pending
+294,4645,13954,3,48,2023-05-25,3,Wrong Size,5997,Processed
+295,3472,10449,29,44,2024-02-19,1,Wrong Size,199,Processed
+296,2312,6988,14,7,2023-08-02,2,Defective,900,Pending
+297,1559,4657,30,11,2024-09-28,1,Defective,1299,Processed
+298,1130,3373,3,13,2023-02-05,2,Not as Described,498,Pending
+299,490,1470,45,49,2024-04-05,1,Changed Mind,2499,Processed
+300,1021,3030,32,17,2024-04-18,1,Better Price Elsewhere,1499,Processed
+301,2275,6887,22,11,2024-09-08,2,Better Price Elsewhere,2598,Processed
+302,2740,8235,37,11,2024-03-17,2,Wrong Size,2598,Processed
+303,1331,4000,33,9,2024-04-07,2,Not as Described,1040,Processed
+304,1794,5355,44,23,2023-10-27,2,Better Price Elsewhere,1398,Processed
+305,6,15,7,31,2024-08-10,1,Not as Described,3499,Processed
+306,220,679,6,14,2023-03-15,1,Changed Mind,399,Processed
+307,3260,9797,17,12,2024-04-17,2,Defective,1298,Processed
+308,1761,5268,13,34,2023-11-07,3,Wrong Size,2697,Processed
+309,256,793,42,24,2024-06-11,2,Defective,998,Pending
+310,3153,9461,41,38,2024-12-31,2,Changed Mind,1998,Processed
+311,4949,14890,12,26,2023-05-23,1,Wrong Size,899,Processed
+312,3212,9641,37,14,2024-01-10,2,Wrong Size,798,Processed
+313,3514,10577,44,42,2023-12-23,1,Defective,699,Pending
+314,3382,10162,41,49,2024-05-06,1,Not as Described,2499,Processed
+315,4590,13789,49,9,2023-06-04,1,Changed Mind,520,Processed
+316,2038,6180,8,18,2023-06-22,1,Not as Described,199,Pending
+317,1214,3635,43,50,2024-12-27,2,Not as Described,3998,Processed
+318,381,1147,31,38,2023-08-24,1,Wrong Size,999,Processed
+319,2463,7440,45,4,2023-07-11,2,Defective,1198,Processed
+320,1859,5577,18,11,2023-03-27,1,Better Price Elsewhere,1299,Processed
+321,3111,9339,48,21,2024-07-04,1,Wrong Size,399,Processed
+322,3082,9261,50,49,2023-07-25,1,Defective,2499,Processed
+323,701,2103,21,37,2024-07-20,1,Not as Described,1899,Pending
+324,3398,10211,30,34,2024-05-02,2,Wrong Size,1798,Processed
+325,4832,14519,39,10,2024-06-07,3,Not as Described,2697,Processed
+326,2748,8259,28,15,2023-05-30,1,Changed Mind,349,Pending
+327,4161,12500,32,24,2023-11-22,2,Better Price Elsewhere,998,Pending
+328,4595,13806,34,36,2023-03-20,1,Wrong Size,320,Processed
+329,4885,14695,49,36,2024-03-12,1,Changed Mind,320,Processed
+330,1211,3624,6,13,2023-12-21,2,Not as Described,498,Processed
+331,4461,13410,31,41,2024-03-05,1,Not as Described,899,Processed
+332,910,2704,10,7,2024-02-11,1,Better Price Elsewhere,450,Pending
+333,4242,12732,30,9,2024-04-17,2,Defective,1040,Pending
+334,2041,6190,31,1,2024-11-30,2,Not as Described,4998,Processed
+335,155,477,44,19,2023-07-09,1,Changed Mind,149,Processed
+336,929,2756,50,48,2024-11-09,1,Defective,1999,Processed
+337,2978,8949,14,24,2023-12-23,1,Wrong Size,499,Processed
+338,2793,8394,4,14,2023-07-14,1,Not as Described,399,Pending
+339,2193,6636,50,1,2023-11-10,1,Changed Mind,2499,Processed
+340,1709,5119,12,50,2023-04-14,1,Not as Described,1999,Pending
+341,330,993,12,29,2023-07-25,1,Not as Described,1499,Processed
+342,3388,10184,43,25,2024-12-02,1,Defective,2499,Processed
+343,1658,4955,31,41,2023-08-10,1,Wrong Size,899,Processed
+344,4308,12941,23,18,2023-07-15,1,Changed Mind,199,Processed
+345,3590,10801,50,48,2023-04-24,3,Defective,5997,Processed
+346,2553,7688,50,2,2024-03-03,1,Defective,299,Processed
+347,3653,10987,16,35,2024-11-27,1,Changed Mind,280,Processed
+348,4464,13416,40,2,2024-09-10,2,Wrong Size,598,Processed
+349,2178,6602,34,31,2024-01-27,1,Not as Described,3499,Pending
+350,411,1233,19,23,2023-01-24,1,Wrong Size,699,Processed
+351,2015,6105,1,1,2023-06-01,1,Better Price Elsewhere,2499,Processed
+352,3041,9147,16,32,2023-02-06,3,Wrong Size,1797,Processed
+353,3805,11436,40,8,2023-02-07,1,Defective,180,Processed
+354,1455,4360,5,30,2024-04-23,1,Better Price Elsewhere,699,Processed
+355,1924,5801,14,5,2023-06-21,2,Defective,2998,Processed
+356,2387,7209,44,21,2023-12-22,1,Changed Mind,399,Processed
+357,1125,3357,10,7,2023-09-23,3,Wrong Size,1350,Processed
+358,533,1603,2,10,2024-05-12,1,Changed Mind,899,Processed
+359,4773,14328,50,36,2023-11-11,1,Wrong Size,320,Pending
+360,4457,13401,4,46,2024-06-13,1,Defective,449,Pending
+361,342,1030,3,27,2024-08-28,1,Defective,1299,Processed
+362,328,988,45,28,2023-01-28,3,Better Price Elsewhere,2397,Processed
+363,4768,14310,19,1,2024-02-06,1,Defective,2499,Pending
+364,2657,7988,6,49,2023-08-15,1,Defective,2499,Processed
+365,2325,7029,34,13,2024-03-29,2,Not as Described,498,Processed
+366,3361,10093,39,48,2023-08-28,1,Better Price Elsewhere,1999,Processed
+367,1502,4475,16,35,2024-02-18,1,Wrong Size,280,Processed
+368,3444,10356,18,15,2024-09-14,1,Wrong Size,349,Processed
+369,1914,5769,17,20,2024-10-25,1,Defective,99,Processed
+370,4971,14950,39,38,2023-10-31,2,Not as Described,1998,Processed
+371,899,2676,14,27,2023-07-25,2,Better Price Elsewhere,2598,Processed
+372,3569,10741,10,13,2023-06-07,2,Better Price Elsewhere,498,Processed
+373,702,2104,32,3,2023-12-31,1,Defective,1299,Processed
+374,8,21,24,15,2023-02-28,3,Changed Mind,1047,Processed
+375,3237,9718,26,16,2024-04-26,1,Changed Mind,799,Processed
+376,426,1277,14,5,2024-08-04,2,Not as Described,2998,Pending
+377,839,2491,29,35,2024-03-14,1,Changed Mind,280,Processed
+378,2107,6389,15,24,2024-03-05,1,Defective,499,Processed
+379,261,809,34,17,2023-03-01,1,Better Price Elsewhere,1499,Processed
+380,1618,4827,15,20,2024-11-22,1,Defective,99,Processed
+381,1430,4293,15,39,2024-03-27,1,Not as Described,549,Pending
+382,3830,11503,19,5,2024-03-30,1,Better Price Elsewhere,1499,Processed
+383,983,2926,23,16,2024-01-25,1,Better Price Elsewhere,799,Processed
+384,180,566,22,30,2024-09-12,1,Defective,699,Processed
+385,504,1512,40,26,2024-08-02,3,Better Price Elsewhere,2697,Pending
+386,4385,13176,38,41,2024-04-13,3,Wrong Size,2697,Pending
+387,1962,5933,16,43,2023-05-11,3,Wrong Size,237,Processed
+388,4569,13725,2,50,2023-02-02,1,Defective,1999,Processed
+389,304,920,35,14,2024-03-13,1,Defective,399,Pending
+390,4892,14715,31,39,2024-10-04,1,Wrong Size,549,Processed
+391,1033,3065,5,40,2024-05-29,1,Defective,199,Processed
+392,4105,12338,2,23,2023-03-18,1,Defective,699,Processed
+393,3995,12008,39,12,2024-12-03,2,Not as Described,1298,Processed
+394,3878,11662,38,21,2024-02-26,1,Better Price Elsewhere,399,Processed
+395,4723,14184,39,4,2024-04-06,3,Changed Mind,1797,Pending
+396,318,964,34,7,2023-05-07,3,Defective,1350,Pending
+397,4318,12968,17,44,2023-03-19,2,Wrong Size,398,Processed
+398,2274,6884,14,11,2024-06-07,1,Defective,1299,Pending
+399,3088,9272,38,28,2023-05-25,3,Changed Mind,2397,Processed
+400,3335,10024,36,16,2024-09-26,1,Better Price Elsewhere,799,Processed
+401,139,422,24,7,2024-01-30,1,Not as Described,450,Processed
+402,1044,3102,23,31,2024-06-12,3,Changed Mind,10497,Pending
+403,1540,4603,15,47,2023-05-21,1,Wrong Size,1799,Pending
+404,2136,6480,30,33,2023-10-07,1,Not as Described,1299,Processed
+405,1868,5604,12,18,2024-01-26,1,Not as Described,199,Processed
+406,441,1325,14,18,2023-06-15,2,Not as Described,398,Processed
+407,260,804,50,14,2023-11-04,1,Wrong Size,399,Processed
+408,3246,9749,18,25,2024-06-06,3,Defective,7497,Pending
+409,1712,5127,21,25,2023-01-16,1,Not as Described,2499,Pending
+410,2418,7308,42,10,2023-05-26,1,Wrong Size,899,Processed
+411,4753,14271,38,9,2024-10-12,1,Defective,520,Processed
+412,4538,13638,48,11,2023-10-13,2,Not as Described,2598,Processed
+413,4732,14212,16,48,2024-09-23,2,Better Price Elsewhere,3998,Processed
+414,1993,6035,7,22,2024-09-25,1,Wrong Size,999,Pending
+415,4008,12043,38,9,2023-08-05,2,Wrong Size,1040,Processed
+416,3820,11474,30,39,2024-01-29,1,Better Price Elsewhere,549,Pending
+417,3025,9100,1,19,2023-02-05,1,Not as Described,149,Pending
+418,3044,9153,4,48,2023-02-01,2,Not as Described,3998,Processed
+419,2091,6340,27,21,2024-12-01,1,Changed Mind,399,Processed
+420,1133,3379,6,19,2024-11-15,2,Wrong Size,298,Processed
+421,636,1929,44,2,2023-02-23,1,Not as Described,299,Processed
+422,970,2885,50,33,2024-10-13,1,Not as Described,1299,Pending
+423,2360,7133,28,38,2024-02-02,1,Not as Described,999,Processed
+424,2933,8822,47,17,2024-01-02,1,Better Price Elsewhere,1499,Processed
+425,4237,12718,22,31,2023-08-17,3,Changed Mind,10497,Processed
+426,4935,14848,30,7,2024-09-30,1,Not as Described,450,Processed
+427,276,844,47,2,2024-07-02,2,Not as Described,598,Processed
+428,2,5,49,21,2024-11-01,2,Defective,798,Processed
+429,1047,3109,42,43,2024-04-26,2,Not as Described,158,Processed
+430,3698,11129,11,21,2023-08-24,2,Changed Mind,798,Processed
+431,1485,4433,41,10,2024-11-08,1,Defective,899,Processed
+432,4051,12170,20,18,2024-03-07,2,Not as Described,398,Processed
+433,3737,11236,41,2,2023-05-26,2,Better Price Elsewhere,598,Processed
+434,4081,12263,30,19,2023-01-20,2,Better Price Elsewhere,298,Processed
+435,2864,8616,46,26,2023-10-09,2,Not as Described,1798,Processed
+436,4991,15020,13,26,2024-11-03,1,Changed Mind,899,Processed
+437,3854,11578,18,10,2024-04-05,1,Better Price Elsewhere,899,Processed
+438,1741,5213,14,15,2024-06-19,1,Better Price Elsewhere,349,Pending
+439,2389,7213,48,48,2023-03-26,1,Wrong Size,1999,Processed
+440,1085,3234,13,43,2023-12-11,2,Better Price Elsewhere,158,Processed
+441,4499,13521,36,37,2023-08-17,1,Wrong Size,1899,Processed
+442,238,735,28,3,2024-05-13,2,Changed Mind,2598,Pending
+443,3637,10939,28,14,2023-10-12,3,Defective,1197,Processed
+444,3119,9366,42,25,2024-07-12,1,Defective,2499,Processed
+445,3045,9154,20,45,2023-03-02,1,Defective,1299,Pending
+446,2294,6947,36,36,2024-02-12,1,Changed Mind,320,Processed
+447,2745,8251,18,50,2024-04-15,2,Better Price Elsewhere,3998,Pending
+448,2459,7424,3,16,2023-11-06,2,Better Price Elsewhere,1598,Processed
+449,3936,11838,29,21,2023-10-20,1,Changed Mind,399,Processed
+450,2994,8998,37,28,2024-11-09,1,Better Price Elsewhere,799,Processed
+451,1112,3313,40,38,2023-06-05,1,Better Price Elsewhere,999,Processed
+452,791,2355,40,2,2024-04-06,2,Wrong Size,598,Processed
+453,2449,7391,37,34,2024-02-29,1,Wrong Size,899,Processed
+454,2882,8665,23,14,2023-05-16,2,Wrong Size,798,Processed
+455,408,1224,4,7,2024-09-16,2,Defective,900,Pending
+456,4547,13663,37,33,2023-12-15,1,Defective,1299,Processed
+457,514,1540,49,44,2023-08-30,3,Changed Mind,597,Processed
+458,3064,9211,39,25,2023-05-18,3,Not as Described,7497,Pending
+459,799,2385,48,5,2024-01-25,3,Wrong Size,4497,Pending
+460,2474,7466,25,22,2023-02-21,3,Wrong Size,2997,Processed
+461,123,373,16,41,2023-01-07,1,Better Price Elsewhere,899,Processed
+462,3503,10532,47,25,2023-05-03,1,Changed Mind,2499,Processed
+463,3815,11463,8,48,2023-07-30,3,Wrong Size,5997,Pending
+464,4450,13382,50,12,2024-07-06,1,Defective,649,Processed
+465,1304,3907,23,22,2023-12-16,1,Not as Described,999,Processed
+466,321,970,6,37,2023-09-10,3,Changed Mind,5697,Processed
+467,1585,4724,39,31,2024-08-22,3,Wrong Size,10497,Processed
+468,3129,9395,45,13,2023-10-29,1,Changed Mind,249,Processed
+469,3971,11948,50,40,2023-08-24,1,Defective,199,Processed
+470,2203,6655,36,18,2023-01-20,3,Changed Mind,597,Processed
+471,4537,13636,15,1,2024-04-12,1,Changed Mind,2499,Pending
+472,4973,14959,19,21,2024-11-21,1,Wrong Size,399,Pending
+473,1773,5302,33,19,2024-07-18,2,Not as Described,298,Processed
+474,4682,14062,49,43,2024-09-20,1,Better Price Elsewhere,79,Pending
+475,3057,9192,38,10,2023-11-21,3,Better Price Elsewhere,2697,Pending
+476,1938,5846,48,7,2023-05-23,1,Defective,450,Processed
+477,1155,3451,48,29,2024-05-27,2,Not as Described,2998,Processed
+478,3739,11243,5,14,2024-07-23,2,Defective,798,Processed
+479,4057,12189,40,27,2023-02-26,2,Wrong Size,2598,Processed
+480,1655,4949,47,3,2024-07-04,1,Not as Described,1299,Processed
+481,2773,8328,8,12,2024-12-31,3,Not as Described,1947,Processed
+482,265,818,7,44,2023-04-30,1,Wrong Size,199,Processed
+483,1464,4385,19,13,2024-05-16,1,Changed Mind,249,Pending
+484,3509,10558,36,24,2024-02-22,2,Not as Described,998,Pending
+485,3413,10258,26,20,2023-12-16,1,Wrong Size,99,Processed
+486,2422,7321,39,32,2024-01-27,1,Better Price Elsewhere,599,Pending
+487,2359,7132,33,17,2023-05-09,2,Defective,2998,Processed
+488,3278,9846,32,17,2023-10-15,1,Wrong Size,1499,Processed
+489,1995,6041,31,10,2024-04-02,3,Defective,2697,Processed
+490,3495,10512,24,43,2023-02-13,1,Changed Mind,79,Processed
+491,2704,8119,20,41,2023-03-22,1,Better Price Elsewhere,899,Processed
+492,2822,8477,35,28,2023-09-12,3,Wrong Size,2397,Pending
+493,2601,7820,44,25,2023-06-07,1,Better Price Elsewhere,2499,Processed
+494,2231,6736,48,20,2023-08-29,2,Better Price Elsewhere,198,Pending
+495,4668,14021,15,9,2024-02-06,1,Defective,520,Pending
+496,316,958,6,21,2023-07-06,2,Changed Mind,798,Processed
+497,822,2449,45,32,2023-08-10,1,Defective,599,Processed
+498,4228,12693,14,35,2023-08-17,2,Defective,560,Pending
+499,2021,6127,44,25,2023-03-07,1,Wrong Size,2499,Processed
+500,2859,8594,10,37,2023-11-21,2,Not as Described,3798,Processed
